@@ -1,0 +1,9 @@
+{
+	"name": "OsaNycpayroll",
+	"location": "westus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "4756be66-3141-47b2-9424-c149d4a0cd20",
+		"tenantId": "945322a7-c8b9-4cfe-b834-35994b143988"
+	}
+}
